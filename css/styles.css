@@ -2,3 +2,8 @@ h1{
     color: darkcyan;
     text-align: center;
 }
+h2{
+    color: goldenrod;
+    font-style:italic;
+    text-align: center;
+}
